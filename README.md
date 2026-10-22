@@ -16,16 +16,6 @@
   <img src="https://skillicons.dev/icons?i=py,cs,cpp,java,js,html,css&perline=7" alt="Python, C#, C++, Java, JavaScript, HTML, CSS" />
 </p>
 
-| | Langage |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=py" width="24" alt="Python" /> | Python |
-| <img src="https://skillicons.dev/icons?i=cs" width="24" alt="C#" /> | C# |
-| <img src="https://skillicons.dev/icons?i=cpp" width="24" alt="C++" /> | C++ |
-| <img src="https://skillicons.dev/icons?i=java" width="24" alt="Java" /> | Java |
-| <img src="https://skillicons.dev/icons?i=js" width="24" alt="JavaScript" /> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=html" width="24" alt="HTML" /> | HTML |
-| <img src="https://skillicons.dev/icons?i=css" width="24" alt="CSS" /> | CSS |
-
 ## IA
 
 <p align="left">
