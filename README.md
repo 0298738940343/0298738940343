@@ -2,43 +2,43 @@
 
 # Hello, friend.
 
-**Développeur chez [Evil Corp](https://mrrobot.fandom.com/wiki/E_Corp)**
+**Developer at [Evil Corp](https://mrrobot.fandom.com/wiki/E_Corp)**
 
-<sub><i>« Control is an illusion. »</i></sub>
+<sub><i>"Control is an illusion."</i></sub>
 
 </div>
 
 ---
 
-## Langages
+## Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs,cpp,java,js,html,css&perline=7" alt="Python, C#, C++, Java, JavaScript, HTML, CSS" />
 </p>
 
-## IA
+## AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Opus_5.5-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Opus 5.5" />
 </p>
 
-Je code avec **Claude Opus 5.5** au quotidien.
+I code with **Claude Opus 5.5** every day.
 
-## Projet
+## Project
 
 ### [Hello World](https://github.com/0298738940343/hello-world)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/langages-357-555?style=flat-square" alt="357 langages" />
-  <img src="https://img.shields.io/badge/testés-119-2ea44f?style=flat-square" alt="119 testés" />
-  <img src="https://img.shields.io/badge/licence-MIT-blue?style=flat-square" alt="Licence MIT" />
+  <img src="https://img.shields.io/badge/languages-357-555?style=flat-square" alt="357 languages" />
+  <img src="https://img.shields.io/badge/tested-119-2ea44f?style=flat-square" alt="119 tested" />
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
 </p>
 
-Le même **Hello World** écrit dans **357 langages et formats**, classés par famille : du C au COBOL, des boot sectors x86 jusqu'à Malbolge, en passant par HolyC, le langage écrit par Terry A. Davis pour TempleOS.
+The same **Hello World** written in **357 languages and formats**, grouped by family: from C to COBOL, from x86 boot sectors to Malbolge, including HolyC, the language Terry A. Davis wrote for TempleOS.
 
-- **119** programmes compilés ou exécutés et vérifiés.
-- Des familles très variées : systèmes, scripting, fonctionnel, Lisp, assembleur, mainframe, hardware, blockchain, ésotérique…
-- Un mini-interpréteur en Python (`tools/esorun.py`) pour Brainfuck, Ook!, COW, Whitespace, Befunge, Malbolge et d'autres.
+- **119** programs compiled or run and verified.
+- A wide range of families: systems, scripting, functional, Lisp, assembly, mainframe, hardware, blockchain, esoteric…
+- A small Python interpreter (`tools/esorun.py`) for Brainfuck, Ook!, COW, Whitespace, Befunge, Malbolge and more.
 
 <div align="center">
 
