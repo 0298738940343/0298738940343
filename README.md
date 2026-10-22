@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Claude_Opus_5.5-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Opus 5.5" />
 </p>
 
-I code with **Claude Opus 5.5** every day.
+I code with **Claude Opus 5.5**.
 
 ## Project
 
